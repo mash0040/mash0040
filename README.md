@@ -6,7 +6,6 @@ Welcome to my GitHub profile! I'm Ekene Masha, a dedicated web development and i
 - 🌱 **Currently Learning**: I'm currently learning advanced JavaScript frameworks, PHP, .NET Core Framework, and Project Management
 - 💞️ **Looking to Collaborate On**: I'm looking to collaborate on open-source projects, web development initiatives, and innovative tech solutions.
 - 📫 **How to Reach Me**: Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/mashaak) or email me at mash0040@algonquinlive.com.
-- 😄 **Pronouns**: He/Him
 - ⚡ **Fun Fact**: When I'm not coding, I enjoy playing video games, playing chess, and exploring new cuisines.
 
 ## Projects and Contributions
