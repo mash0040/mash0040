@@ -18,9 +18,9 @@ Contributed to enhancing the UI/UX of an existing movie recommendation website u
 
 ## Skills
 
-- **Languages**: JavaScript, Python, C#, PHP, (HTML, CSS)
+- **Languages**: JavaScript, Python, C#, PHP, SQL, (HTML, CSS)
 - **Frameworks**: Django, ASP.NET, React, jQuery, (Bootstrap)
-- **Tools**: Git, Docker, Figma
+- **Tools**: VB, VS CODE, Git, Docker, Figma, Adobe Creative Cloud
 - **Operating Systems**: Linux, Windows
 
 Thank you for visiting my profile! I'm always open to discussing new ideas and opportunities. Let's connect and create something amazing together!
