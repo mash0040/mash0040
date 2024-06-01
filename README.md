@@ -13,7 +13,7 @@ Welcome to my GitHub profile! I'm Ekene Masha, a dedicated web development and i
 ### [Movie Recommendation Website](https://mash0040.github.io/movie-recommendation/)
 A dynamic movie recommendation website developed as part of my coursework, featuring responsive design and personalized user interactions.
 
-### [Graphics Design Enhancement]
+### [Graphics Design Enhancement](https://www.figma.com/proto/zY9t29dk0T2jjxk1nOhwkP/Wireframes?page-id=38%3A784&type=design&node-id=39-945&viewport=867%2C606%2C0.12&t=RaZk2D4nNzwa2wda-1&scaling=contain&starting-point-node-id=149%3A17985)
 Contributed to enhancing the UI/UX of an existing movie recommendation website using Figma and web development tools.
 
 ## Skills
