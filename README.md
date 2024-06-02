@@ -1,5 +1,7 @@
 # 👋 Hi, I’m @mash0040
 
+![](https://komarev.com/ghpvc/?username=mash0040)
+
 Welcome to my GitHub profile! I'm Ekene Masha, a dedicated web development and internet applications student passionate about technology, coding, and continuous learning.
 
 - 👀 **Interests**: I'm interested in web development, software engineering, cybersecurity, and AI.
